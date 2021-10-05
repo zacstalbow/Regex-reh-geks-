@@ -1,0 +1,7 @@
+C:\Users\zac\source\repos\Regex\Regex\bin\Debug\Regex.exe.config
+C:\Users\zac\source\repos\Regex\Regex\bin\Debug\Regex.exe
+C:\Users\zac\source\repos\Regex\Regex\bin\Debug\Regex.pdb
+C:\Users\zac\source\repos\Regex\Regex\obj\Debug\Regex.csproj.AssemblyReference.cache
+C:\Users\zac\source\repos\Regex\Regex\obj\Debug\Regex.csproj.CoreCompileInputs.cache
+C:\Users\zac\source\repos\Regex\Regex\obj\Debug\Regex.exe
+C:\Users\zac\source\repos\Regex\Regex\obj\Debug\Regex.pdb
